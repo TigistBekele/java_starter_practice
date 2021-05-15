@@ -28,6 +28,8 @@ public class Example {
 		div = division(10.5d, 2.5d);
 
 		System.out.println(div);
+		
+		
 
 	}
 
